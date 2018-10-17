@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.1298772692680359,
+            "green": 0.8262341022491455,
+            "red": 0.4941504597663879
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "Version 1"
+    "string": "Version 2"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,9 +51,9 @@
     "height": 53,
     "width": 201,
     "x": 87,
-    "y": 266
+    "y": 358
   },
-  "glyphBounds": "{{0, 8}, {192, 36}}",
+  "glyphBounds": "{{0, 8}, {198, 36}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Version 1",
+  "name": "Version 2",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -79,9 +79,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.1298772692680359,
+          "green": 0.8262341022491455,
+          "red": 0.4941504597663879
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
